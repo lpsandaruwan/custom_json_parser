@@ -1,0 +1,10 @@
+{"Phones": {
+    "debug": "on",
+    "S6": {
+        "title": "android",
+        "name": "main_window",
+        "width": 500,
+        "height": 500,
+        "class":"adb"
+    }
+}}
